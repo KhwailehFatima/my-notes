@@ -1,5 +1,5 @@
 # my-notes
- 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Fatima+Khwaileh;a+Future+Developer)](https://git.io/typing-svg)
 ## I'm Fatima Khwaileh
 ## 28 years old 
 ## I have a master degree in Mechatronics Engineering from JUST (Excellent standing).
